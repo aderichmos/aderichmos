@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aderichmos
+- 👋 Hi, I’m Rachael
 - 👀 I’m interested in data analysis 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on team work 
